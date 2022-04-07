@@ -1,7 +1,8 @@
 import { social_media } from "../data/social_media";
 import { Grid } from "@mui/material";
 
-import LinkedinIcon from "@mui/icons-material/Linkedin";
+// import LinkedinIcon from "@mui/icons-material/Linkedin";
+
 import GitHubIcon from "@mui/icons-material/GitHub";
 import HomeIcon from "@mui/icons-material/Home";
 
@@ -40,7 +41,7 @@ const Social = ({ color }) => {
           sx={{ width: "30px", height: "30px", color: "#ffe" }}
         />
       </Grid>
-      <Grid
+      {/* <Grid
         item
         component={"a"}
         target="_blank"
@@ -51,7 +52,7 @@ const Social = ({ color }) => {
           color="white"
           sx={{ width: "30px", height: "30px", color: "#ffe" }}
         />
-      </Grid>
+      </Grid> */}
     </Grid>
   );
 };
