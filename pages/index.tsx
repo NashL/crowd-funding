@@ -29,7 +29,7 @@ function Home({
             color="text.primary"
             gutterBottom
           >
-            Crow Funding
+            Crowd Funding
           </Typography>
           <Typography
             variant="body1"
@@ -37,7 +37,7 @@ function Home({
             color="text.secondary"
             paragraph
           >
-            CrowFunDing is a platform for gathering money from the public, which
+            CrowdFunDing is a platform for gathering money from the public, which
             circumvents traditional avenues of investment. Project creators
             choose a deadline and a minimum funding goal. If the goal is not met
             by the deadline, no funds are collected (a kind of assurance
